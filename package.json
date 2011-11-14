@@ -1,0 +1,21 @@
+{
+    "name": "css-sort",
+    "description": "Sort rules and properties in a CSS file",
+    "homepage": "https://github.com/CatChen/css-sort",
+    "version": "0.1.0",
+    "author": {
+        "name": "Cat Chen",
+        "email": "catchen@catchen.me",
+        "web": "http://catchen.me"
+    },
+    "dependencies": {
+        "jshelpers": "1.0.7",
+        "less": "1.1.4"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:CatChen/css-sort.git"
+        }
+    ]
+}

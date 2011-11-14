@@ -1,0 +1,19 @@
+/* this file is for test only */
+.test {
+    border: 1px solid #000000;
+    border-left-color: #CCCCCC;
+    padding: 10px;
+    margin: 0 auto;
+    font-size: 20px;
+    line-height: 32px;
+    background-color: #CCCCCC;
+}
+
+/* this is another comment for test */
+.test:hover, .test:active {
+    /* test for two selectors */
+    color: #666666;
+    background-color: #FFFFFF;
+    /* another comment for test */
+    border-color: #999999;
+}
