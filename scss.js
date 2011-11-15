@@ -1,8 +1,10 @@
 var usage = [
     'Usage:',
     '   node scss.js comparator style1.css [style2.css style3.css ...]',
-    'Comparators:',
-    '   alphabet'
+    'Built-in comparators:',
+    '   alphabet, category',
+    'User comparators:',
+    '   You can put your own comparator written in JavaScript in /lib.'
 ];
 
 require.paths.unshift('./lib');
